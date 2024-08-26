@@ -25,7 +25,7 @@
     <lombok.version>1.18.4</lombok.version>
     <map-struct>1.2.0.Final</map-struct>
     <cucumber.version>1.2.5</cucumber.version>
-    <swagger.version>2.9.2</swagger.version>
+    <swagger.version>2.10.0</swagger.version>
   </properties>
 
   <dependencies>
